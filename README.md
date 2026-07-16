@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:5B21B6,100:8B5CF6&height=280&section=header&text=Rohit%20Kumar&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20with%20Purpose&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:5B21B6,100:8B5CF6&height=280&section=header&text=Rohit%20&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20with%20Purpose&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/dev-rohit008">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Computer+Engineering+Student;Clean+Code+%E2%80%A2+Continuous+Learning&font=Fira+Code&center=true&width=650&height=50&color=C4B5FD&vCenter=true&size=24&pause=1200&duration=3000" alt="Typing SVG" />

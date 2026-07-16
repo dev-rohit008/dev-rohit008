@@ -14,7 +14,7 @@
 <br/><br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Add%20Link-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=140A28"/></a>
-<a href="https://www.linkedin.com/in/rohit-kumar-3a920641a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=140A28"/></a>
+<a href="https://www.linkedin.com/in/rohit-3a920641a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=140A28"/></a>
 <a href="mailto:add-your-email@example.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=140A28"/></a>
 <a href="https://github.com/dev-rohit008"><img src="https://img.shields.io/badge/GitHub-Profile-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=140A28"/></a>
 
